@@ -1,4 +1,4 @@
-const check = document.getElementById("check") ;
+ const check = document.getElementById("check") ;
 
 check.addEventListener("click", function() {
     let year = document.getElementById("year").value;
@@ -8,3 +8,50 @@ check.addEventListener("click", function() {
         result.innerHTML='L\'année '+year+' n\'est pas Bisextile.';
     }
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Y
